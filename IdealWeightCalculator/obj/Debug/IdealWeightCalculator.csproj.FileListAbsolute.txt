@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\IdealWeightCalculator\IdealWeightCalculator\bin\Debug\IdealWeightCalculator.exe.config
+C:\Users\DELL\source\repos\IdealWeightCalculator\IdealWeightCalculator\bin\Debug\IdealWeightCalculator.exe
+C:\Users\DELL\source\repos\IdealWeightCalculator\IdealWeightCalculator\bin\Debug\IdealWeightCalculator.pdb
+C:\Users\DELL\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\IdealWeightCalculator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\IdealWeightCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\IdealWeightCalculator.exe
+C:\Users\DELL\source\repos\IdealWeightCalculator\IdealWeightCalculator\obj\Debug\IdealWeightCalculator.pdb
